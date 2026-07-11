@@ -15,7 +15,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunalArya1
+[![trophy](https://github-profile-trophy.vercel.app/?username=asyncarya
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 - ⚡ **Web Developer**
@@ -100,10 +100,10 @@
 ---
 
 ### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunalArya1&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asyncarya&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 --
 
-[![Kunal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalArya1&theme=gotham)](https://github.com/kunalArya1/github-readme-activity-graph)
+[![Kunal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asyncarya&theme=gotham)](https://github.com/asyncarya/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -127,5 +127,5 @@ Thanks for checking it out. Have a good day. ✨
 
 [1]: https://www.linkedin.com/in/kunal-kumar-arya/
 [2]: https://discord.com/invite/zVr7NFd3
-[3]: https://www.facebook.com/KunalKrArya/
-[4]: https://github.com/kunalArya1
+[3]: https://www.facebook.com/asyncarya/
+[4]: https://github.com/asyncarya
